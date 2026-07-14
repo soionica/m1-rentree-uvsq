@@ -21,7 +21,7 @@ Inscription Pédagogique:: en ligne (urgent)
 
 === Contacts
 [horizontal]
-Coordinateurs des M1 informatiques:: Stéphane LOPES (stephane.lopes@uvsq.fr)
+Coordinateurs des M1 informatiques::  Sorina Ionica (sorina.ionica@uvsq.fr)
 Secrétariat pédagogique du département informatique:: Clémence PEREZ (clemence.perez@uvsq.fr, UFR des Sciences, bât. Descartes, bureau 221B)
 Service de la scolarité de l'UFR des Sciences:: Ophélie BRÉGIER (ophelie.bregier@uvsq.fr, UFR des Sciences, bât. Fermat, Bureau des Master)
 Service de la scolarité de l'ISTY:: Lamia ES-SAI (lamia.es-sai@uvsq.fr, ISTY)
